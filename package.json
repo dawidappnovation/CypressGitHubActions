@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/dawidappnovation/CypressGitHubActions/issues"
   },
-  "homepage": "https://github.com/dawidappnovation/CypressGitHubActions#readme"
+  "homepage": "https://github.com/dawidappnovation/CypressGitHubActions#readme",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
 }
